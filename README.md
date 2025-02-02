@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/this_my_acc">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+
   <a href="http://147.45.154.119:3001/">
     <img src="https://img.shields.io/badge/Blog-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
   </a>
@@ -24,12 +22,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working on my pet-projects and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I learn English and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/sergey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/this_my_acc)
 
 ---
 
